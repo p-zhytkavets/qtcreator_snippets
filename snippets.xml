@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+    <snippet group="C++" trigger="cout" id="" complement="" removed="false" modified="false">std::cout &lt;&lt; $$ &lt;&lt; std::endl;</snippet>
+</snippets>
